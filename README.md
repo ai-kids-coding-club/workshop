@@ -26,7 +26,7 @@
   - **"Who has made a website before?"**
   - **"What is a website made of?"**  
     - 🏗 **HTML** = The bones (structure)
-    - 🎨 **CSS** = The style (colors, fonts, layout)
+    - 🎨 **CSS** = The skin & clothes (colors, fonts, layout)
     - 🧠 **JavaScript** = The brain (makes things move and interact)
 
 ---
