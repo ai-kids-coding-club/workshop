@@ -73,7 +73,7 @@ Try asking Claude
 GitHub is like **a magic folder** where you save and share your website.
 
 ### 📁 Create a GitHub Repository:
-1. Go to **[GitHub.com](https://github.com/)**
+1. Go to **[GitHub.com](https://github.com/)** & login
 2. Click **Repositories** → **New**.
 3. Name the game (e.g., `car-race-game`).
 4. ✅ Check **"Add a README file."**
