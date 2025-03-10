@@ -74,9 +74,7 @@ GitHub is like **a magic folder** where you save and share your website.
 4. ✅ Check **"Add a README file."**
 5. Click **Create Repository**.
 
----
-
-## 🕐 0:40 - 0:50 | Uploading Code to GitHub
+### Uploading Code to GitHub
 
 ### 📜 Copy the game code from Claude.ai.
 
@@ -94,7 +92,7 @@ GitHub is like **a magic folder** where you save and share your website.
 
 ---
 
-## 🕐 0:50 - 1:00 | Game Showcase & Wrap-Up
+## 🕐 0:40 - 1:00 | Game Showcase & Wrap-Up
 
 - 🎤 Each student **comes up and demos their game.**
 - 👏 **Class claps and cheers** for each demo!
