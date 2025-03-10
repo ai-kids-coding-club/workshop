@@ -79,7 +79,7 @@ GitHub is like **a magic folder** where you save and share your website.
 4. ✅ Check **"Add a README file."**
 5. Click **Create Repository**.
 
-### Uploading Code to GitHub
+### ⬆️ Uploading Code to GitHub
 
 ### 📜 Copy the game code from Claude.ai.
 
