@@ -63,9 +63,9 @@ Try asking Claude
 
 ---
 
-✨## Optional✨ 
+## Optional ✨ 
 
-## 🕐 0:40 - 1:00 | Intro to GitHub: Hosting Your Game
+## Intro to GitHub: Hosting Your Game
 
 🎥 See video tutorial [here](https://www.loom.com/share/b6e0712c95604d3a91db5ce4bfa46d0d). 
 
@@ -106,7 +106,7 @@ GitHub is like **a magic folder** where you save and share your website.
 - 📸 **Take a group photo** with their games displayed.
 
 ### ✨ **Wrap-up Message:**
-> **"Coding is magic, and YOU are now a coder!"** 🎩✨
+> **"AI is magic, and YOU are now an AI coder!"** 🎩✨
 
 - **Encourage students** to **share their game links** with friends and family.
 
