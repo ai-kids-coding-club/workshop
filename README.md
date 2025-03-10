@@ -22,7 +22,10 @@
 ---
 
 ### 🕐 0:15 - 0:20 | Inspiration: What Can We Create?
-- Show **examples** of simple **website games** (e.g., race games, dress-up games, guessing games).
+- Show **examples** of simple **website games** 
+  - 🐋 [Sea Creature Speed Game](https://alysonla.github.io/sea-creature-speed/)
+  - ❓ [Fruit Emoji Matching Game](https://alysonla.github.io/matching-game/)
+  - 🐶 [Puppy Sunshine Spam Game](https://alysonla.github.io/puppy-sunshine-game/)
 - Ask:
   - **"Who has made a website before?"**
   - **"What is a website made of?"**  
@@ -36,7 +39,7 @@
 1. Open **Claude.ai** on laptops.
 2. **Prompt students** to type:
 
-> "Make me a website game _fill in the blank_"
+> "Make me an HTML website game _fill in the blank_"
 
 ### 🔍 Discuss:
 - **What do you see?** 🤔
