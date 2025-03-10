@@ -41,7 +41,11 @@
 1. Open **Claude.ai** on laptops.
 2. **Prompt students** to type:
 
-> "Make me an HTML website game _fill in the blank_"
+> "Make me an HTML website game _fill in the blank_" - fill in the blank with any idea you have! 
+
+If you want help coming up with ideas you can type:
+
+> Can you give me some ideas for prompts that will generate fun HTML games and use emoji?
 
 ### 🔍 Discuss:
 - **What do you see?** 🤔
