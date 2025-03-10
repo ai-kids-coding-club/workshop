@@ -32,6 +32,8 @@
     - 🏗 **HTML** = The bones (structure)
     - 🎨 **CSS** = The skin & clothes (colors, fonts, layout)
     - 🧠 **JavaScript** = The brain (makes things move and interact)
+  - **"What are hex codes?""**
+    - Hex codes are special color codes made of six numbers and letters that computers use to know exactly what color to show on a screen! 🎨💻  
 
 ---
 
