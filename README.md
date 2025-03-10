@@ -10,17 +10,18 @@
 
 ## ⏳ 1-Hour AI Kids Coding Workshop
 
-### 🕐 0:00 - 0:05 | Welcome & Icebreaker
+### 🕐 0:00 - 0:15 | Welcome & Icebreaker
 - **Greet students and introduce yourself.**
 - **Icebreaker:** Each student shares **their name** and **one thing they like to do.**
 - **Agenda Overview:**
   - Learn how to use AI to code a website game! 🎮
   - Hack and customize your game.
+  - (optional) Host your game on GitHub 
   - Present and share your game with the class.
 
 ---
 
-### 🕐 0:05 - 0:10 | Inspiration: What Can We Create?
+### 🕐 0:15 - 0:20 | Inspiration: What Can We Create?
 - Show **examples** of simple **website games** (e.g., race games, dress-up games, guessing games).
 - Ask:
   - **"Who has made a website before?"**
@@ -31,20 +32,20 @@
 
 ---
 
-### 🕐 0:10 - 0:20 | Hands-on: AI-Powered Coding
+### 🕐 0:20 - 0:40 | Hands-on: AI-Powered Coding
 1. Open **Claude.ai** on laptops.
 2. **Prompt students** to type:
 
-> "Make me a website game <fill in the blank>"
- 
-## 🕐 0:20 - 0:30 | Hands-on: Customization & Playtime
+> "Make me a website game _fill in the blank_"
 
 ### 🔍 Discuss:
 - **What do you see?** 🤔
 - **What kind of game did you create?**
 
 ### 🛠 Tweak & Hack:
-Try asking Claude:
+Try asking Claude
+
+> "Use emoji" 
 
 > "Make the cars bigger." 
 
@@ -62,7 +63,11 @@ Try asking Claude:
 
 ---
 
-## 🕐 0:30 - 0:40 | Intro to GitHub: Hosting Your Game
+✨## Optional✨ 
+
+## 🕐 0:40 - 1:00 | Intro to GitHub: Hosting Your Game
+
+🎥 See video tutorial [here](https://www.loom.com/share/b6e0712c95604d3a91db5ce4bfa46d0d). 
 
 ### 🌐 What is GitHub?
 GitHub is like **a magic folder** where you save and share your website.
@@ -88,7 +93,9 @@ GitHub is like **a magic folder** where you save and share your website.
 1. Click on **Settings** (top right of repo).
 2. Scroll down to **GitHub Pages**.
 3. Under **"Branch,"** select **main** and hit **"Save."**
-4. 🎉 **Your website is now live!** **Share the link with friends!** 🌍
+4. The website will take a few minutes to "deploy" so go play your game once and come back. 
+5. At the top of your setting pages you will see the link for your website! 
+6. 🎉 **Your website is now live!** **Share the link with friends!** 🌍
 
 ---
 
