@@ -52,7 +52,7 @@ If you want help coming up with ideas you can type:
 - **What kind of game did you create?**
 
 ### 🛠 Tweak & Hack:
-Try asking Claude
+Try asking Bolt
 
 > "Use emoji" 
 
