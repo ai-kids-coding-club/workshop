@@ -3,7 +3,7 @@
 ## 📌 Before Class (Preparation)
 - Set up **6 laptops** for **12 students** (2 per laptop).
 - Place **hex code color worksheets** and **markers** at each seat.
-- Test **WiFi** and **Claude.ai** access on each laptop.
+- Test **WiFi** and **blot.new** access on each laptop.
 - Write **"AI + Coding = Magic!"** on the whiteboard.
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ### 🕐 0:20 - 0:40 | Hands-on: AI-Powered Coding
-1. Open **Claude.ai** on laptops.
+1. Open **bolt.new** on laptops.
 2. **Prompt students** to type:
 
 > "Make me an HTML website game _fill in the blank_" - fill in the blank with any idea you have! 
