@@ -90,7 +90,7 @@ GitHub is like **a magic folder** where you save and share your website.
 
 ### ⬆️ Uploading Code to GitHub
 
-### 📜 Copy the game code from Claude.ai.
+### 📜 Copy the game code 
 
 ### 🖥 On GitHub:
 1. Click **"Add File"** → **"Create new file."**
