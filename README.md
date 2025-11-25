@@ -2,7 +2,9 @@
 
 ## 📌 Before Class (Preparation)
 - Each attendee should be encouraged to bring their own laptop and a parent
-- Ask attendees to sign up for a bolt.new account (with parents help) 
+- Ask library if they have any loner laptops to borrow for the workshop and set those up before class.
+- Ask attendees to sign up for a bolt.new account (with parents help)
+- Ask attendees to sign up for a github account (with parent's help) 
 - Place **hex code color worksheets** and **markers** at each seat.
 - Write Wifi login info and **AI + Coding = Magic!"** on the whiteboard.
 
@@ -68,6 +70,7 @@ Try asking Bolt
 
 ## 🕐 0:40 - 1:00 | Game Showcase & Wrap-Up
 
+- 🐙 Open a github issue in this repo with the title of workshop and create a bit.ly link for student to go to and share their game URL
 - 🎤 Each student **comes up and demos their game.**
 - 👏 **Class claps and cheers** for each demo!
 - 📸 **Take a group photo** with their games displayed.
