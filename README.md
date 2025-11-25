@@ -1,10 +1,10 @@
 # 🧠 AI Kids Coding Workshop: 
 
 ## 📌 Before Class (Preparation)
-- Set up **6 laptops** for **12 students** (2 per laptop).
+- Each attendee should be encouraged to bring their own laptop and a parent
+- Ask attendees to sign up for a bolt.new account (with parents help) 
 - Place **hex code color worksheets** and **markers** at each seat.
-- Test **WiFi** and **blot.new** access on each laptop.
-- Write **"AI + Coding = Magic!"** on the whiteboard.
+- Write Wifi login info and **AI + Coding = Magic!"** on the whiteboard.
 
 ---
 
@@ -16,8 +16,7 @@
 - **Agenda Overview:**
   - Learn how to use AI to code a website game! 🎮
   - Hack and customize your game.
-  - (optional) Host your game on GitHub 
-  - Present and share your game with the class.
+  - Demo your game with the class.
 
 ---
 
@@ -43,10 +42,6 @@
 
 > "Make me an HTML website game _fill in the blank_" - fill in the blank with any idea you have! 
 
-If you want help coming up with ideas you can type:
-
-> Can you give me some ideas for prompts that will generate fun HTML games and use emoji?
-
 ### 🔍 Discuss:
 - **What do you see?** 🤔
 - **What kind of game did you create?**
@@ -68,44 +63,7 @@ Try asking Bolt
 - **Encourage experimentation:**
   - 🎨 Change colors
   - 🔊 Add sound effects
-  - 🏎 Adjust difficulty
-
----
-
-## Optional ✨ 
-
-## Intro to GitHub: Hosting Your Game
-
-🎥 See video tutorial [here](https://www.loom.com/share/b6e0712c95604d3a91db5ce4bfa46d0d). 
-
-### 🌐 What is GitHub?
-GitHub is like **a magic folder** where you save and share your website.
-
-### 📁 Create a GitHub Repository:
-1. Go to **[GitHub.com](https://github.com/)** & login
-2. Click **Repositories** → **New**.
-3. Name the game (e.g., `car-race-game`).
-4. ✅ Check **"Add a README file."**
-5. Click **Create Repository**.
-
-### ⬆️ Uploading Code to GitHub
-
-### 📜 Copy the game code 
-
-### 🖥 On GitHub:
-1. Click **"Add File"** → **"Create new file."**
-2. Name it **index.html**.
-3. **Paste the code**.
-4. Click **Commit** (Green Button).
-
-### 🚀 Now make it live!
-1. Click on **Settings** (top right of repo).
-2. Scroll down to **GitHub Pages**.
-3. Under **"Branch,"** select **main** and hit **"Save."**
-4. The website will take a few minutes to "deploy" so go play your game once and come back. 
-5. At the top of your setting pages you will see the link for your website! 
-6. 🎉 **Your website is now live!** **Share the link with friends!** 🌍
-
+  - 🏎 Adjust speed
 ---
 
 ## 🕐 0:40 - 1:00 | Game Showcase & Wrap-Up
